@@ -28,8 +28,8 @@ public class Main {
   public static void main(String[] args) {
     while (true)
     {
-      Game game1 = new Game ();
-      game1.gameStart();
+      System.out.println("You are awesome");
+      //you are awesome
     }
     
   }
